@@ -1,4 +1,4 @@
-# Select-time
+# Select_Time
 <h4>1、Use Tkinter GUI</h4>
 <h4>2、Use after(ms, function) to update the time by 1000ms</h4>
 <h4>3、And you can choose any country you want in Combobox</h4>
